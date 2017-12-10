@@ -1,11 +1,6 @@
 {
   "posts": [
     {
-      "id": 0,
-      "titulo": "Post0",
-      "cuerpo": "Cuerpo del post 0"
-    },
-    {
         "id": 1,
         "titulo": "Post1",
       "cuerpo": "Cuerpo del post 1"
@@ -19,6 +14,11 @@
         "id": 3,
         "titulo": "Post3",
       "cuerpo": "Cuerpo del post 3"
+    },
+    {
+      "id": 4,
+      "titulo": "Post4",
+      "cuerpo": "Cuerpo del post 4"
     }
   ]
 }
